@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2005
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary3", "ClassLibrary3\ClassLibrary3.csproj", "{733A353B-3AAE-4A91-A889-59E4D65C0622}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hashtable", "ClassLibrary3\Hashtable.csproj", "{733A353B-3AAE-4A91-A889-59E4D65C0622}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
